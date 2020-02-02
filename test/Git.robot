@@ -1,6 +1,6 @@
 # Robot Class vs Robot Framework Vs Robotic Process Automation
 # https://www.youtube.com/watch?v=X9YtZ37S3Wo&list=PL6flErFppaj0ZzSIvLaiUCXS7UJrnkjgc
-#Feb2nd
+#Feb2nd,test branch
 # Robot Framework - 
 # python based automation framework
 # combination of lot of libraries
@@ -54,7 +54,7 @@
 # Version: 3.1.2
 # Summary: Generic automation framework for acceptance testing and robotic process automation (RPA)
 # Home-page: http://robotframework.org
-# Author: Pekka Kl‰rck
+# Author: Pekka Kl√§rck
 # Author-email: peke@eliga.fi
 # License: Apache License 2.0
 # Location: c:\users\trinath\appdata\local\programs\python\python38-32\lib\site-packages
@@ -178,10 +178,10 @@
 # ${variable_name}
 
 # LIST
-# @{variable_name}  item1  item2  Ö.
+# @{variable_name}  item1  item2  ‚Ä¶.
 
 # DICTIONARY
-# &{variable_name}  K1=V1 K2=V2 Ö..
+# &{variable_name}  K1=V1 K2=V2 ‚Ä¶..
 
 # ENVIRONMENT
 
